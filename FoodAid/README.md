@@ -18,7 +18,9 @@
 ![alt text](<Screenshots/Screenshot from 2025-11-12 18-52-09.png>) 
 ![alt text](<Screenshots/Screenshot from 2025-11-12 18-52-36.png>) 
 ![alt text](<Screenshots/Screenshot from 2025-11-12 18-53-07.png>) 
-![alt text](<Screenshots/Screenshot from 2025-11-12 18-53-19.png>)
+![alt text](<Screenshots/Screenshot from 2025-11-12 18-53-19.png>) 
+![alt text](<Screenshots/Screenshot from 2025-11-12 22-50-05.png>) 
+![alt text](<Screenshots/Screenshot from 2025-11-12 22-51-20.png>)
 
 
 
@@ -290,6 +292,16 @@ Push to branch: git push origin feature/your-feature
 Open a Pull Request
 
 Please follow clean code practices and comment your code where necessary.
+
+# deployment
+
+# frontend
+Vercel
+deployment link: https://foodaidmernfinalproject-six.vercel.app/
+
+# backend
+Render
+deploymnet link: https://foodaid-mern-final-project-4.onrender.com/
 
 License
 
